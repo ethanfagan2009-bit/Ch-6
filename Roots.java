@@ -1,4 +1,4 @@
-public class SquareRoot {
+public class Roots {
 	public static void main(String[] args) {
 	System.out.println(squareroot(9, 4.5));
 	}
